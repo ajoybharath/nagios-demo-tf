@@ -1,5 +1,5 @@
 [masters]
-13.233.179.22 ansible_user=ubuntu
+IP ADDR ansible_user=ubuntu
 
 [nodes]
-13.127.30.117 ansible_user=ubuntu
+IP ADDR ansible_user=ubuntu
